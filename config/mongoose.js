@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 mongoose.set("strictQuery", true);
 mongoose
   .connect(
-    "mongodb+srv://poojapanwar:poojapanwarxyz@cluster0.hha0ca6.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb+srv://surajsahani70684:suraj123@cluster0.6jzkufc.mongodb.net/?retryWrites=true&w=majority",
     {
       // useCreateIndex: true,
       useNewUrlParser: true,
